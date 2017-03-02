@@ -9,8 +9,8 @@ from keys import *
 
 
 # email particulars
-recipient = ''
-sender = ''
+recipient = 'p.narvas@sheffield.ac.uk'
+sender = 'p.narvas@sheffield.ac.uk'
 
 subject = 'Hello there-with attachments'
 
